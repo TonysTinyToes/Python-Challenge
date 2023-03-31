@@ -34,3 +34,6 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 
 Once these results are printed to the terminal, the script writes that infrmation into a new text file, titled "Election_Analysis.txt" inside the PyPoll analysis folder.
+
+## Credits
+I worked with ChatGPT to have it explain a few functions found in previous assignments/ course material as well as explain the syntax. For this assignment, the ".append" function (used to continually edit lists in each script [of the $ change by month and the list of candidates]) was recommended by ChatGPT.
